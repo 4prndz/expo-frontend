@@ -26,7 +26,7 @@ const showHero = () => {
     .to(
       heroFrames,
       {
-        duration: 1.8,
+        duration: 1.0,
         height: "300",
         ease: "expo.inOut",
         stagger: 0.025,
@@ -48,7 +48,7 @@ const showHero = () => {
     .to(
       heroFrameFigure,
       {
-        duration: 1.5,
+        duration: 1.0,
         height: "300",
         ease: "expo.inOut",
         stagger: 0.025,
